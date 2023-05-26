@@ -1,0 +1,10 @@
+# NAME: OpenAI
+# DOMAIN: 3
+# DOMAIN-SUFFIX: 3
+# TOTAL: 6
+DOMAIN,cdn.auth0.com
+DOMAIN,challenges.cloudflare.com
+DOMAIN,openaiapi-site.azureedge.net
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,openai.com
